@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=19559B&height=200&section=header&text=Welcome%20to%20Hani's%20Github&fontSize=50&fontColor=FFFFFF&fontAlign=60&fontAlignY=33&desc=Thank%20you%20for%20coming🤗&descSize=25&descAlign=80&descAlignY=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=19559B&height=230&section=header&text=Welcome%20to%20Hani's%20Github&fontSize=50&fontColor=FFFFFF&fontAlign=60&fontAlignY=33&desc=Thank%20you%20for%20coming🤗&descSize=25&descAlign=80&descAlignY=50" />
 </div>
 
 <h3 align="center">👩‍💻I can use...</h3>
@@ -25,7 +25,8 @@
   <img src="https://img.shields.io/badge/markdown-000000.svg?style=flat&logo=markdown&logoColor=white">
   <img src="https://img.shields.io/badge/github-121011.svg?style=flat&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Discord-5865F2.svg?style=flat&logo=discord&logoColor=white">
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white">
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
+  
 </div>
 </br>
 <h3 align="center">🤩I'm interested in...</h3>
