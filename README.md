@@ -17,10 +17,11 @@
 <div align=center> 
   <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat&logo=Google Colab&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
-</br>
+&nbsp;with (&nbsp;
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=NumPy&logoColor=white">
   <img src="https://img.shields.io/badge/matplotlib-FFFFFF?style=flat&logo=Matplotlib&logoColor=white">
   <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=PANDAS&logoColor=white">
+  &nbsp;)
 </br>
   <img src="https://img.shields.io/badge/markdown-000000.svg?style=flat&logo=markdown&logoColor=white">
   <img src="https://img.shields.io/badge/github-121011.svg?style=flat&logo=github&logoColor=white">
