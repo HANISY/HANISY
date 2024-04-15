@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Welcome%20to%20HANI's%20Github&fontSize=50&color=2B579A&fontColor=FFFFFF&fontAlignY=30&fontAlign=59&desc=Thank%20you%20for%20coming😊&descSize=25&descAlign=80&descAlignY=47" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&section=header&text=Welcome%20to%20HANI's%20Github&fontSize=50&color=6ECEDA&fontColor=555555" />
 </div>
 
 <h3 align="center">👩‍💻I can use...</h3>
@@ -42,5 +42,5 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=2B579A" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=70&section=footer&color=6ECEDA" />
 </div>
