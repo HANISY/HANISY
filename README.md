@@ -40,8 +40,10 @@
 </br>
 <h3 align="center">📲Contact me</h3>
 <div align=center>
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:loiexx1215@gmail.com">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white&link=https://t.me/xxhani">
+  <a href="mailto:loiexx1215@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:loiexx1215@gmail.com"></a>
+  <a href="https://t.me/xxhani">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white&link=https://t.me/xxhani"></a>
 </div>
 
 <div align="center">
