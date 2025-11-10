@@ -31,7 +31,6 @@
 </br>
 <h3 align="center">🤩I'm interested in...</h3>
 <div align=center> 
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/r-276DC3.svg?style=flat&logo=r&logoColor=white">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white">
