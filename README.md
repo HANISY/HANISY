@@ -14,8 +14,7 @@
 </div>
 </br>
 <h3 align="center">✏️I'm studying...</h3>
-<div align=center> 
-  <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat&logo=Google Colab&logoColor=white">
+<div align=center>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
 &nbsp;with (&nbsp;
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=NumPy&logoColor=white">
