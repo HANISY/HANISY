@@ -1,17 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=19559B&height=200&section=header&text=Welcome%20to%20Hani's%20Github&fontSize=50&fontColor=FFFFFF&fontAlign=60&fontAlignY=33&desc=Thank%20you%20for%20coming🤗&descSize=25&descAlign=80&descAlignY=50" />
 </div>
-
-<h3 align="center">👩‍💻I can use...</h3>
-<div align=center> 
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=white">
-  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=Adobe%20Illustrator&logoColor=white">
-</div>
-<div align=center> 
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white">
-  <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white">
-  <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat&logo=microsoft-word&logoColor=white">
-</div>
 </br>
 <h3 align="center">✏️I'm studying...</h3>
 <div align=center>
