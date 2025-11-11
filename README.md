@@ -1,32 +1,9 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=b0c4de&text=SOYEON%20LEE&descAlignY=47&descSize=20&fontSize=50" />
+#### 이소연 - Lee Soyeon 
+---
+> 의료데이터분석가를 준비하는 **이소연**입니다.
 
-  
-</div>
-</br>
-<h3 align="center">✏️I'm studying...</h3>
-<div align=center>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
-&nbsp;with (&nbsp;
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=NumPy&logoColor=white">
-  <img src="https://img.shields.io/badge/matplotlib-FFFFFF?style=flat&logo=Matplotlib&logoColor=white">
-  <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=PANDAS&logoColor=white">
-  &nbsp;)
-</br>
-  <img src="https://img.shields.io/badge/markdown-000000.svg?style=flat&logo=markdown&logoColor=white">
-  <img src="https://img.shields.io/badge/github-121011.svg?style=flat&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Discord-5865F2.svg?style=flat&logo=discord&logoColor=white">
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
-</div>
-</br>
-<h3 align="center">📲Contact me</h3>
-<div align=center>
-  <a href="mailto:loiexx1215@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:loiexx1215@gmail.com"></a>
-  <a href="https://t.me/xxhani">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white&link=https://t.me/xxhani"></a>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=70&section=footer&color=19559B" />
-</div>
+##### ACTIVITY
+---
+- Oracle Academy Bio-Data Expert Track (Sept 2025 – Feb 2026)
+- FastCampus ByteDegree EX-PORT: Data Analysis (Feb 2024 – Apr 2024)
+- Medical Administrative Secretary, Uijeongbu Eulji University Hospital (Apr 2023 – Apr 2025)
