@@ -28,14 +28,6 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
 </div>
 </br>
-<h3 align="center">🤩I'm interested in...</h3>
-<div align=center> 
-  <img src="https://img.shields.io/badge/r-276DC3.svg?style=flat&logo=r&logoColor=white">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/Tabelau-E97627.svg?style=flat&logo=Tableau&logoColor=white">
-</div>
-</br>
 <h3 align="center">📲Contact me</h3>
 <div align=center>
   <a href="mailto:loiexx1215@gmail.com">
